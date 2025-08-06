@@ -1,4 +1,4 @@
 ACTIVE=true
-MESSAGE=Next event in 24 hours
+MESSAGE=Open event in 24 hours
 TYPE=welcome
 PRIORITY=normal
