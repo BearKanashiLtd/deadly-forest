@@ -1,0 +1,4 @@
+ACTIVE=true
+MESSAGE=¡Bienvenido a Pet Bear Kanashi! ¡Disfruta del juego!
+TYPE=welcome
+PRIORITY=normal
