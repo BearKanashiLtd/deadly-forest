@@ -2,4 +2,3 @@ WELCOME2024|dollars:2024|description:Welcome to 2024!
 SUMMER2025|dollars:6472|description:The heat of summer!
 HALLOWEEN2025|dollars:666|description:Boo!
 CHRISTMAS2025|dollars:3000|description:Merry christmas!
-VOX2027|dollars:1000|description:Long live Vox!
