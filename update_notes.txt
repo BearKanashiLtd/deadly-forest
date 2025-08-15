@@ -1,2 +1,2 @@
-Parche 0.0.33:
-hemos MEJORADO DETALLES.
+Patch 0.0.34
+We have fixed several reported bugs.
