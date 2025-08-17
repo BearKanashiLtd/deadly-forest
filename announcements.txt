@@ -1,4 +1,0 @@
-ACTIVE=false
-MESSAGE=End event in 14 days
-TYPE=welcome
-PRIORITY=normal
