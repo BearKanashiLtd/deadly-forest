@@ -1,2 +1,2 @@
-Dev: 
-Estamos en desarrollo.
+Patch 0.0.3
+-Fixed: Chests, Kitchen, Water bottle, empty bottle, enemy intelligence... We keep working!
