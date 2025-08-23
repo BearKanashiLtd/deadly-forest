@@ -1,2 +1,4 @@
 Patch 0.0.3
--Fixed: Chests, Kitchen, Water bottle, empty bottle, enemy intelligence... We keep working!
+-Fixed: Chests, Kitchen, Water Bottle, Empty Bottle, Enemy Intelligence... 
+-Added: Ovens and Kitchen, and the new construction system. 
+We keep working!
